@@ -1,4 +1,4 @@
-package com.csc.hello.controller;
+package com.csc.controller;
 
 public class GreetingController{
 
